@@ -1,4 +1,4 @@
-#Install Homebrew on m1
+# Install Homebrew on m1
 ```cmd
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
