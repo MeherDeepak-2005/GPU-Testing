@@ -30,5 +30,5 @@ pip install tensorflow-metal
 ```python
 import tensorflow as tf
 GPU_info = tf.config.list_physical_devices('GPU')
-print('GPU available: ", len(GPU_info)>0, 'GPU info - ', GPU_info)
+print('GPU available: ', len(GPU_info)>0, 'GPU info - ', GPU_info)
 ```
